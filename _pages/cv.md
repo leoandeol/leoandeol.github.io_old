@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* DipHE in Computer Science, University of Montpellier, 2017
+* B.S. in Data Science and Business Intelligence, Paris-Dauphine University, 2018
+* M.Sc in Artifcial Intelligence, Sorbonne University, 2020 (expected)
 
 Work experience
 ======
