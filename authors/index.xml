@@ -6,9 +6,64 @@
     <description>Recent content in Authors on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://leo.andeol.eu/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leo ANDEOL</title>
+      <link>https://leo.andeol.eu/authors/leo-andeol/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/authors/leo-andeol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shugo MIYAMOTO</title>
+      <link>https://leo.andeol.eu/authors/shugo-miyamoto/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/authors/shugo-miyamoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takafumi KANAMORI</title>
+      <link>https://leo.andeol.eu/authors/takafumi-kanamori/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/authors/takafumi-kanamori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takumi NAKAGAWA</title>
+      <link>https://leo.andeol.eu/authors/takumi-nakagawa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/authors/takumi-nakagawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wataru KUMAGAI</title>
+      <link>https://leo.andeol.eu/authors/wataru-kumagai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/authors/wataru-kumagai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuichiro WADA</title>
+      <link>https://leo.andeol.eu/authors/yuichiro-wada/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/authors/yuichiro-wada/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -16,9 +71,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leo.andeol.eu/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Léo Andéol is a first-year master student at Sorbonne Universit\&amp;lsquo;e. He received his bachelor degree in Computer Science from Université Paris-Dauphine in 2018. He is currently an intern at RIKEN, at the Tokyo Institute of Technology. He is interested in machine learning and optimization. Before that, he was a Bachelor student in Computer Science at Université Paris-Dauphine.&lt;/p&gt;
 </description>
     </item>
     

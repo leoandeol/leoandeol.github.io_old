@@ -3,17 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leo.andeol.eu/authors/admin/</loc>
+    <loc>https://leo.andeol.eu/publication_types/2/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/leo-andeol/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/shugo-miyamoto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/publication/wada-miyamoto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/takafumi-kanamori/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/takumi-nakagawa/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/wataru-kumagai/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/yuichiro-wada/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leo.andeol.eu/authors/admin/</loc>
   </url>
   
   <url>
@@ -23,15 +83,6 @@
   
   <url>
     <loc>https://leo.andeol.eu/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://leo.andeol.eu/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://leo.andeol.eu/publication/</loc>
   </url>
   
   <url>
