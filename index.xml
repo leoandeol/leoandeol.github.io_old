@@ -6,10 +6,24 @@
     <description>Recent content on Léo Andéol</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 19:52:15 +0900</lastBuildDate>
     
 	    <atom:link href="https://leo.andeol.eu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Myth of Japanese Rail</title>
+      <link>https://leo.andeol.eu/post/japanese-rail/</link>
+      <pubDate>Wed, 26 Jun 2019 19:52:15 +0900</pubDate>
+      
+      <guid>https://leo.andeol.eu/post/japanese-rail/</guid>
+      <description>&lt;p&gt;Japanese trains are never late ?
+- Delays and incidents are common
+- Infrastructure
+- Frequency
+- Passengers&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spectral Embedded Deep Clustering</title>
