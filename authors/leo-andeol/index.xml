@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Spectral Embedded Deep Clustering</title>
-      <link>https://leo.andeol.eu/publication/wada-miyamoto/</link>
+      <title>Graph Kernels and Support Vector Machines for Pattern Recognition</title>
+      <link>https://leo.andeol.eu/publication/master-thesis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://leo.andeol.eu/publication/wada-miyamoto/</guid>
+      <guid>https://leo.andeol.eu/publication/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Embedded Deep Clustering</title>
+      <link>https://leo.andeol.eu/publication/wada-sedc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leo.andeol.eu/publication/wada-sedc/</guid>
       <description></description>
     </item>
     

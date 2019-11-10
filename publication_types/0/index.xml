@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Léo Andéol</title>
-    <link>https://leo.andeol.eu/publication/</link>
-    <description>Recent content in Publications on Léo Andéol</description>
+    <title>0 on Léo Andéol</title>
+    <link>https://leo.andeol.eu/publication_types/0/</link>
+    <description>Recent content in 0 on Léo Andéol</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://leo.andeol.eu/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://leo.andeol.eu/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,15 +17,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://leo.andeol.eu/publication/master-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectral Embedded Deep Clustering</title>
-      <link>https://leo.andeol.eu/publication/wada-sedc/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/publication/wada-sedc/</guid>
       <description></description>
     </item>
     
