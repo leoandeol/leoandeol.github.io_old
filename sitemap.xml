@@ -1,41 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://leo.andeol.eu/publication_types/2/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/</loc>
-    <lastmod>2019-10-14T13:47:27+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-07-19T14:10:08+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/leo-andeol/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/publication_types/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/shugo-miyamoto/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -46,25 +40,21 @@
   <url>
     <loc>https://leo.andeol.eu/authors/takafumi-kanamori/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/takumi-nakagawa/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/wataru-kumagai/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leo.andeol.eu/authors/yuichiro-wada/</loc>
     <lastmod>2019-07-19T14:10:08+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -74,7 +64,6 @@
   
   <url>
     <loc>https://leo.andeol.eu/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -94,7 +83,6 @@
   
   <url>
     <loc>https://leo.andeol.eu/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
