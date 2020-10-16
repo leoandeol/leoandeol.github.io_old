@@ -1,79 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Léo Andéol</title>
+    <title>Authors | Léo Andéol</title>
     <link>https://leo.andeol.eu/authors/</link>
-    <description>Recent content in Authors on Léo Andéol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://leo.andeol.eu/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Leo ANDEOL</title>
-      <link>https://leo.andeol.eu/authors/leo-andeol/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/leo-andeol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shugo MIYAMOTO</title>
-      <link>https://leo.andeol.eu/authors/shugo-miyamoto/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/shugo-miyamoto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Takafumi KANAMORI</title>
-      <link>https://leo.andeol.eu/authors/takafumi-kanamori/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/takafumi-kanamori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Takumi NAKAGAWA</title>
-      <link>https://leo.andeol.eu/authors/takumi-nakagawa/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/takumi-nakagawa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wataru KUMAGAI</title>
-      <link>https://leo.andeol.eu/authors/wataru-kumagai/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/wataru-kumagai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuichiro WADA</title>
-      <link>https://leo.andeol.eu/authors/yuichiro-wada/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/yuichiro-wada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://leo.andeol.eu/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://leo.andeol.eu/authors/admin/</guid>
-      <description>&lt;p&gt;I am a currently a Machine Learning Intern as &lt;a href=&#34;https://www.aignostics.com/&#34;&gt;AIgnostics&lt;/a&gt; in Berlin until August 2020. I am particularly interested in general aspects of ML, I have worked on Transfer Learning, Graph Neural Networks, Adversarial Training, Active learning and more. I will join TU Berlin&amp;rsquo;s Machine Learning team in September 2020 for my PhD.&lt;/p&gt;
-</description>
-    </item>
+      <atom:link href="https://leo.andeol.eu/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leo.andeol.eu/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://leo.andeol.eu/authors/</link>
+    </image>
     
   </channel>
 </rss>
