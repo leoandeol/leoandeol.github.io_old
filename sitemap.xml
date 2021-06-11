@@ -1,98 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://leo.andeol.eu/publication-type/2/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/authors/</loc>
     <lastmod>2020-10-16T18:15:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/leo-andeol/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/</loc>
     <lastmod>2020-10-16T18:15:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/publication_types/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/shugo-miyamoto/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/publication/wada-sedc/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/takafumi-kanamori/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/takumi-nakagawa/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/wataru-kumagai/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/yuichiro-wada/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/publication-type/0/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/publication/master-thesis/</loc>
     <lastmod>2019-11-10T20:36:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/author/</loc>
     <lastmod>2020-10-16T18:15:55+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/post/</loc>
     <lastmod>2020-10-16T17:40:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/talk/</loc>
     <lastmod>2020-10-16T17:40:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leo.andeol.eu/tags/</loc>
   </url>
-  
 </urlset>
