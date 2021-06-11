@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Léo Andéol</title>
-    <link>https://leo.andeol.eu/publication-type/2/</link>
-      <atom:link href="https://leo.andeol.eu/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Grégoire Montavon | Léo Andéol</title>
+    <link>https://leo.andeol.eu/author/gregoire-montavon/</link>
+      <atom:link href="https://leo.andeol.eu/author/gregoire-montavon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grégoire Montavon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leo.andeol.eu/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>2</title>
-      <link>https://leo.andeol.eu/publication-type/2/</link>
+      <title>Grégoire Montavon</title>
+      <link>https://leo.andeol.eu/author/gregoire-montavon/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://leo.andeol.eu/publication/andeol-2021-learning/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://leo.andeol.eu/publication/andeol-2021-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectral Embedded Deep Clustering</title>
-      <link>https://leo.andeol.eu/publication/wada-sedc/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://leo.andeol.eu/publication/wada-sedc/</guid>
       <description></description>
     </item>
     

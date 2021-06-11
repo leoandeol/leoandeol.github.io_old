@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leo ANDEOL | Léo Andéol</title>
+    <title>Léo Andéol</title>
     <link>https://leo.andeol.eu/author/leo-andeol/</link>
       <atom:link href="https://leo.andeol.eu/author/leo-andeol/index.xml" rel="self" type="application/rss+xml" />
-    <description>Leo ANDEOL</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <description>Léo Andéol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leo.andeol.eu/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Leo ANDEOL</title>
+      <title>Léo Andéol</title>
       <link>https://leo.andeol.eu/author/leo-andeol/</link>
     </image>
+    
+    <item>
+      <title>Learning Domain Invariant Representations by Joint Wasserstein Distance Minimization</title>
+      <link>https://leo.andeol.eu/publication/andeol-2021-learning/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://leo.andeol.eu/publication/andeol-2021-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spectral Embedded Deep Clustering</title>
